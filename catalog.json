@@ -31,9 +31,9 @@
       "merged": 499
     }
   ],
-  "updated": "2026-08-16",
-  "syncedAt": "2026-08-16T14:41:10.955Z",
-  "count": 2460,
+  "updated": "2026-11-18",
+  "syncedAt": "2026-11-18",
+  "count": 2461,
   "categories": {
     "ui": {
       "en": "UI Enhancements",
@@ -71289,6 +71289,49 @@
       "featured": false,
       "tags": [
         "dsh-plugin"
+      ]
+    },
+    {
+      "name": "scientific-visual-studio",
+      "owner": "TardisBooo",
+      "url": "https://github.com/TardisBooo/scientific-visual-studio",
+      "page": "https://github.com/TardisBooo/scientific-visual-studio",
+      "category": "skill",
+      "description": {
+        "en": "Domain-agnostic scientific, AI & mathematical visual computation studio for Agents, Slides, and Video productions. 26 procedural renderers (Manim, SciencePlots, Qiskit, PlotNeuralNet, PyVista, Control, RDKit, scikit-rf, Astropy, Feynman).",
+        "zh": "面向 AI Agent、学术课件 (Slides) 与程序化视频 (Remotion) 的领域无关科学/数学/算法可视化引擎与智能体技能库。包含 26 个程序化渲染组件（Manim、SciencePlots、Qiskit、PlotNeuralNet、PyVista、Control、RDKit、scikit-rf、Astropy、Feynman）。"
+      },
+      "npm": "@tardisbooo/scientific-visual-studio",
+      "stars": 0,
+      "install": "dsh plugin --profile web add github:TardisBooo/scientific-visual-studio",
+      "added": "2026-11-18",
+      "sources": [
+        "github-topic",
+        "awesome-dsh-plugin"
+      ],
+      "verification": null,
+      "installable": true,
+      "license": "Apache-2.0",
+      "version": "1.2.0",
+      "featured": false,
+      "tags": [
+        "scientific-visualization",
+        "academic-figures",
+        "manim",
+        "scienceplots",
+        "plotneuralnet",
+        "qiskit",
+        "pyvista",
+        "rdkit",
+        "scikit-rf",
+        "astropy",
+        "feynman-diagram",
+        "agent-skill",
+        "claude-code",
+        "cursor",
+        "codex",
+        "dsh-plugin",
+        "dsh-skill"
       ]
     }
   ]
